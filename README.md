@@ -40,20 +40,20 @@ Participants may use LLMs/Agentic Workflows or other methods to develop a new al
 
 ## Registration
 
-- Registration opens: **TBD**
-- Registration deadline: **TBD**
-- Registrations closed. 
+- Registration opens    : **TBD**
+- Registration deadline : **TBD**
 
 ## Contest Timeline
 
-| Milestone                 | Date            |
-| ------------------------- | --------------- |
-| Contest Begins            | April 23, 2026  |
-| Registration Closes       | April 23, 2026  |
-| Alpha Submission Deadline | June 15, 2026    |
-| Beta Submission Deadline  | July 20, 2026   |
-| Final Submission Deadline | August 10, 2026 |
-| Results Announcement      | September 2026  |
+| Milestone                 | Date                                              |
+| ------------------------- | ------------------------------------------------- |
+| Contest Begins            | February 20, 2026                                 |
+| Registration Closes       | March 10, 2026                                    |
+| Alpha Submission Deadline | April 1, 2026                                     |
+| Beta Submission Deadline  | May 1, 2026                                       |
+| Final Submission Deadline | June 15, 2026                                     |
+| Results Announcement      | June 25, 2026 (With invitation to Submit a paper) |
+| Camera-Ready Version      | July 25, 2026                                     |
 
 ## Prizes
 
@@ -79,7 +79,7 @@ The International Workshop on Machine Learning for CAD (MLCAD) is the leading ve
 Thanks to:
 - NSF POSE
 - NSF Chipshub
-- MLCAD 2026 Organizing  
+- MLCAD 2026 Organizing Committee
 
 for sponsoring this contest and their involvement in organizing it. 
 
