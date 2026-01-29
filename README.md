@@ -40,15 +40,15 @@ Participants may use LLMs/Agentic Workflows or other methods to develop a new al
 
 ## Registration
 
-- Registration opens    : **TBD**
-- Registration deadline : **TBD**
+- Registration opens    : February 20, 2026
+- Registration deadline : March 10, 2026
 
 ## Contest Timeline
 
 | Milestone                 | Date                                              |
 | ------------------------- | ------------------------------------------------- |
-| Contest Begins            | February 20, 2026                                 |
-| Registration Closes       | March 10, 2026                                    |
+| Registration Opens        | February 20, 2026                                 |
+| Registration Deadline     | March 10, 2026                                    |
 | Alpha Submission Deadline | April 1, 2026                                     |
 | Beta Submission Deadline  | May 1, 2026                                       |
 | Final Submission Deadline | June 15, 2026                                     |
