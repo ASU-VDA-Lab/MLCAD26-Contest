@@ -19,23 +19,23 @@ Participants may use LLMs/Agentic Workflows or other methods to develop a new al
 <img width="1000" alt="profile" src="etc/MLCAD26_after1.png">
 
 
-<!-- ###  We have released the content details, please find the information in [*MLCAD25-Contest-Scripts-Benchmarks*](https://github.com/ASU-VDA-Lab/MLCAD25-Contest-Scripts-Benchmarks). -->
-<!-- ### Please find the contest description [*here*](https://github.com/ASU-VDA-Lab/MLCAD25-Contest-Scripts-Benchmarks/blob/main/MLCAD2025-Contest-Problem-Statement.pdf). -->
+<!-- ###  We have released the content details, please find the information in [*MLCAD26-Contest-Scripts-Benchmarks*](https://github.com/ASU-VDA-Lab/MLCAD26-Contest-Scripts-Benchmarks). -->
+<!-- ### Please find the contest description [*here*](https://github.com/ASU-VDA-Lab/MLCAD26-Contest-Scripts-Benchmarks/blob/main/MLCAD2026-Contest-Problem-Statement.pdf). -->
 
 ## Contest Challenges Include:
 
-- Applying machine learning techniques (supervised, unsupervised, reinforcement learning) for logic resynthesis.
-- Ensuring physical awareness in resynthesis and ensuring routability without congestion overflows.
-- Demonstrating timing improvements post global route by performing netlist optimizations post logic synthesis. 
+- Designing a design-adaptive Resizer algorithm for OpenROAD that dynamically modifies timing optimization strategies based on the characteristics of each design.
+- Applying LLM-based or agentic optimization workflows to discover, generate, or evolve timing optimization moves beyond fixed heuristics.
+- Demonstrating improved timing closure and overall design quality after placement legalization and global routing, while balancing power, routability, and runtime constraints. 
 
 
 ## Updates:
-We have extended the alpha submission deadline to June 15th.
+We have extended the alpha submission deadline to TBD.
 
 ## Why Participate?
 
-- Showcase your AI-driven EDA innovations and state-of-the-art algorithms for physical-aware logic resynthesis. 
-- Apply for **travel grants** (available for eligible participants) to MLCAD 2025.
+- Showcase your AI-driven EDA innovations and state-of-the-art algorithms for the Resizer. 
+- Apply for **travel grants** (available for eligible participants) to MLCAD 2026.
 - Winners will receive high-performance NVIDIA GPUs as prizes!
 
 
@@ -103,7 +103,7 @@ Top-performing team(s) will be sponsored to present their solutions in [MLCAD202
 
 ## Contest Details
 ###  We have released the content details, please find the information in 
-<!-- [*MLCAD25-Contest-Scripts-Benchmarks*](https://github.com/ASU-VDA-Lab/MLCAD25-Contest-Scripts-Benchmarks). -->
+<!-- [*MLCAD26-Contest-Scripts-Benchmarks*](https://github.com/ASU-VDA-Lab/MLCAD26-Contest-Scripts-Benchmarks). -->
  
 
 ## About MLCAD
