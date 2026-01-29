@@ -24,17 +24,14 @@ Participants may use LLMs/Agentic Workflows or other methods to develop a new al
 
 ## Contest Challenges Include:
 
-- Designing a design-adaptive Resizer algorithm for OpenROAD that dynamically modifies timing optimization strategies based on the characteristics of each design.
+- Designing a design-adaptive timing optimization algorithm for OpenROAD that dynamically modifies strategies based on the characteristics of each design.
 - Applying LLM-based or agentic optimization workflows to discover, generate, or evolve timing optimization moves beyond fixed heuristics.
 - Demonstrating improved timing closure and overall design quality after placement legalization and global routing, while balancing power, routability, and runtime constraints. 
 
 
-## Updates:
-We have extended the alpha submission deadline to TBD.
-
 ## Why Participate?
 
-- Showcase your AI-driven EDA innovations and state-of-the-art algorithms for the Resizer. 
+- Showcase your AI-driven EDA innovations and state-of-the-art algorithms for the Resizer. **Winners will have invited papers in the MLCAD 2026 Proceedings! **
 - Apply for **travel grants** (available for eligible participants) to MLCAD 2026.
 - Winners will receive high-performance NVIDIA GPUs as prizes!
 
@@ -46,44 +43,6 @@ We have extended the alpha submission deadline to TBD.
 - Registration opens: **TBD**
 - Registration deadline: **TBD**
 - Registrations closed. 
-
-## Participants List:
-
-If you have any questions about registration, please feel free to contact us through the email provided at the end of the page.
-
-|Team ID|Team Name         |Affiliation                                |
-|-------|------------------|-------------------------------------------|
-|team1  |reinforcedAg      |Texas A&M University                       |
-|team2  |SlugSignal        |UCSC                                       |
-|team3  |dzzz              |The Chinese University of Hong Kong        |
-|team4  |Blue Team         |UCSC                                       |
-|team5  |BluePhone         |Independent                                |
-|team6  |Netlist Ninjas    |Nirma University                           |
-|team7  |BW4A              |upm                                        |
-|team8  |drexel-ice        |Drexel university                          |
-|team9  |ssatyendras       |IMEC                                       |
-|team10 |PACE              |University of Maryland, College Park       |
-|team11 |SeDA              |UNIST (South Korea)                        |
-|team12 |X_PhyicalSynthesis|Fudan University                           |
-|team13 |CSDL              |Pohang University of Science and Technology|
-|team14 |ASEEC Lab         |University of California, Davis            |
-|team15 |DibFan            |UT Austin                                  |
-|team16 |delftBlue         |Delft University of Technology             |
-|team17 |Slug Cricket      |UCSC                                       |
-|team18 |SGCAD             |Sogang university                          |
-|team19 |AI4Semi           |Samsung Semiconductor                      |
-|team20 |Randomize         |Fudan University                           |
-|team21 |CDA               |TUM                                        |
-|team22 |Alrwave           |Fudan University                           |
-|team23 |PhyMap            |Fudan University                           |
-|team24 |ChandraMind       |Arizona State University*                  |
-|team25 |LOGIC101          |Arizona State University*                  |
-|team26 |Physical AI       |Arizona State University*                  |
-|team27 |ACE-DMA           |NXP Semiconductors                         |
-
-
-
-
 
 ## Contest Timeline
 
@@ -120,7 +79,7 @@ The International Workshop on Machine Learning for CAD (MLCAD) is the leading ve
 Thanks to:
 - NSF POSE
 - NSF Chipshub
-- MLCAD2026 
+- MLCAD 2026 Organizing  
 
 for sponsoring this contest and their involvement in organizing it. 
 
