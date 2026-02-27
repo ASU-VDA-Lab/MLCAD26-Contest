@@ -1,20 +1,20 @@
 
 <img width="1000" alt="profile" src="etc/MLCAD26.png">
 
-# **LLM based Algorithm Discovery for OpenROAD Resizer **
+# ** LLM based Algorithm Discovery for OpenROAD Resizer **
 
 
-Join the exciting MLCAD 2026 Contest and showcase your innovative skills in combining Agentic Large Language Model flows with electronic design automation (EDA). This year's challenge focuses on Algorithm discovery using LLMs and Agentic workflows for Electronic Design Automation.
+Join the exciting MLCAD 2026 Contest and showcase your innovative skills in combining agentic Large Language Model (LLM) flows with Electronic Design Automation (EDA). This year's challenge focuses on algorithm discovery using LLMs for timing optimization.
 
-**Winners of this year's contest will be invited to MLCAD2026 to present their solutions as a paper**
+** Winners of this year's contest will be invited to MLCAD2026 to present their solutions as a paper in the proceedings **
 
 ## Contest Overview
 
-The goal of this contest is to create a design-aware Resizer within OpenROAD. Specifically, this means that the Resizer’s internal algorithms or source code may change depending on the design to which it is applied. Contestants begin with the baseline OpenROAD Resizer, whose source code and heuristics remain fixed across all designs. 
+The goal of this contest is to create a design-aware timing optimization tool. Specifically, this means you can use an LLM to update/generate/modify the EDA tool's source code and/or internal algorithms, depending on the design to which it is applied. Contestants may begin with the baseline OpenROAD  source code. 
 
 <img width="1000" alt="profile" src="etc/MLCAD26_Flow.png">
 
-Participants may use LLMs/Agentic Workflows or other methods to develop new algorithms or optmize OpenROAD's existing Resizer' internal algorithms on a **per-design basis**
+Participants may use LLMs or agentic workflows or other methods to develop new algorithms for timing optimization and legalization on a **per-design basis**
 <!-- 
 <img width="1000" alt="profile" src="etc/MLCAD26_after1.png"> -->
 
@@ -24,14 +24,14 @@ Participants may use LLMs/Agentic Workflows or other methods to develop new algo
 
 ## Contest Challenges Include:
 
-- Designing a design-adaptive timing optimization algorithm for OpenROAD that dynamically modifies strategies based on the characteristics of each design.
-- Applying LLM-based or agentic optimization workflows to discover, generate, or evolve timing optimization moves beyond fixed heuristics.
+- Designing a design-adaptive timing optimization algorithm that dynamically modifies strategies based on the characteristics of each design.
+- Applying LLM-based or agentic optimization workflows to discover, generate, or evolve timing optimization.
 - Demonstrating improved timing closure and overall design quality after placement legalization and global routing, while balancing power, routability, and runtime constraints. 
 
 
 ## Why Participate?
 
-- Showcase your AI-driven EDA innovations and state-of-the-art algorithms for the Resizer. **Winners will have invited papers in the MLCAD 2026 Proceedings! **
+- Showcase your innovative solutions at MLCAD 2026. ** Winners will have their papers invited to the MLCAD 2026 Proceedings! **
 - Apply for **travel grants** (available for eligible participants) to MLCAD 2026.
 - Winners will receive high-performance NVIDIA GPUs as prizes!
 
@@ -40,8 +40,10 @@ Participants may use LLMs/Agentic Workflows or other methods to develop new algo
 
 ## Registration
 
-- Registration opens    : March 1, 2026
-- Registration deadline : April 10, 2026
+- Registration opens   : March 1, 2026
+- Registration deadline: April 10, 2026
+
+Please register [here](https://form.jotform.com/260577193935165).
 
 ## Contest Timeline
 
@@ -71,11 +73,10 @@ Participants may use LLMs/Agentic Workflows or other methods to develop new algo
 ## Prizes
 
 <!-- Top-performing teams will receive **NVIDIA GPUs** as awards! These can be used for further research! -->
-Top-performing team(s) will be sponsored to present their solutions in [MLCAD2026](https://mlcad.org/symposium/2026/)
-
+Top-performing team(s) will be invited to present their solutions in [MLCAD2026](https://mlcad.org/symposium/2026/). 
 ## Contest Details
-###  We have released the content details, please find the information in 
-<!-- [*MLCAD26-Contest-Scripts-Benchmarks*](https://github.com/ASU-VDA-Lab/MLCAD26-Contest-Scripts-Benchmarks). -->
+
+###  We will release the content details soon. Please find the information in [*MLCAD26-Contest-Scripts-Benchmarks*](https://github.com/ASU-VDA-Lab/MLCAD26-Contest-Scripts-Benchmarks).
  
 
 ## About MLCAD
@@ -94,6 +95,7 @@ Thanks to:
 - NSF Chipshub
 - MLCAD 2026 Organizing Committee
 
+
 for sponsoring this contest and their involvement in organizing it. 
 
 ## Contest organizers
@@ -108,4 +110,4 @@ for sponsoring this contest and their involvement in organizing it.
 For questions, reach out to mlcad2026-contest@googlegroups.com
 
 
-*Please note that these teams are not from the research groups organizing the contest. ASU and NVIDIA research teams will not be eligible for prizes even if there are participants from these institutions. 
+*Please note that teams from ASU will not be eligible for prizes even if there are participants. 
