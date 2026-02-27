@@ -1,7 +1,7 @@
 
 <img width="1000" alt="profile" src="etc/MLCAD26.png">
 
-# **LLM based Algorithm Discovery for OpenROAD Resizer**
+# **LLM based Algorithm Discovery for Timing Optimization**
 
 
 Join the exciting MLCAD 2026 Contest and showcase your innovative skills in combining agentic Large Language Model (LLM) flows with Electronic Design Automation (EDA). This year's challenge focuses on algorithm discovery using LLMs for timing optimization.
