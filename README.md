@@ -1,12 +1,12 @@
 
 <img width="1000" alt="profile" src="etc/MLCAD26.png">
 
-# ** LLM based Algorithm Discovery for OpenROAD Resizer **
+# **LLM based Algorithm Discovery for OpenROAD Resizer**
 
 
 Join the exciting MLCAD 2026 Contest and showcase your innovative skills in combining agentic Large Language Model (LLM) flows with Electronic Design Automation (EDA). This year's challenge focuses on algorithm discovery using LLMs for timing optimization.
 
-** Winners of this year's contest will be invited to MLCAD2026 to present their solutions as a paper in the proceedings **
+**Winners of this year's contest will be invited to MLCAD2026 to present their solutions as a paper in the proceedings**
 
 ## Contest Overview
 
@@ -22,7 +22,7 @@ Participants may use LLMs or agentic workflows or other methods to develop new a
 ###  We have released the content details, please find the information in [*MLCAD26-Contest-Scripts-Benchmarks*](https://github.com/ASU-VDA-Lab/MLCAD26-Contest-Scripts-Benchmarks).
 <!-- ### Please find the contest description [*here*](https://github.com/ASU-VDA-Lab/MLCAD26-Contest-Scripts-Benchmarks/blob/main/MLCAD2026-Contest-Problem-Statement.pdf). -->
 
-## Contest Challenges Include:
+## Contest Challenge
 
 - Designing a design-adaptive timing optimization algorithm that dynamically modifies strategies based on the characteristics of each design.
 - Applying LLM-based or agentic optimization workflows to discover, generate, or evolve timing optimization.
@@ -31,21 +31,25 @@ Participants may use LLMs or agentic workflows or other methods to develop new a
 
 ## Why Participate?
 
-- Showcase your innovative solutions at MLCAD 2026. ** Winners will have their papers invited to the MLCAD 2026 Proceedings! **
+- Showcase your innovative solutions at MLCAD 2026. **Winners will have their papers invited to the MLCAD 2026 Proceedings!**
 - Apply for **travel grants** (available for eligible participants) to MLCAD 2026.
 - Winners will receive high-performance NVIDIA GPUs as prizes!
 
 
 ## Registration, Participants List, and Important Dates
 
-## Registration
+### Registration
 
 - Registration opens   : March 1, 2026
 - Registration deadline: April 10, 2026
 
 Please register [here](https://form.jotform.com/260577193935165).
 
-## Contest Timeline
+### Registered Teams
+
+To be added after March 15th. 
+
+### Contest Timeline
 
 <!-- | Milestone                 | Date                                              |
 | ------------------------- | ------------------------------------------------- |
@@ -91,10 +95,9 @@ The International Workshop on Machine Learning for CAD (MLCAD) is the leading ve
 <!-- We thank NVIDIA for sponsoring the contest, GPU awards, and their involvement in organizing it. -->
 
 Thanks to:
-- NSF POSE
-- NSF Chipshub
-- MLCAD 2026 Organizing Committee
 
+- UCSD and the NSF POSE: Phase II: Growing a Collaborative Ecosystem for Open-Source Chip Design Using OpenROAD
+- Purdue University and the NSF Chipshub
 
 for sponsoring this contest and their involvement in organizing it. 
 
