@@ -12,14 +12,14 @@ Join the exciting MLCAD 2026 Contest and showcase your innovative skills in comb
 
 The goal of this contest is to create a design-aware Resizer within OpenROAD. Specifically, this means that the Resizer’s internal algorithms or source code may change depending on the design to which it is applied. Contestants begin with the baseline OpenROAD Resizer, whose source code and heuristics remain fixed across all designs. 
 
-<img width="1000" alt="profile" src="etc/MLCAD26_before1.png">
+<img width="1000" alt="profile" src="etc/MLCAD26_Flow.png">
 
-Participants may use LLMs/Agentic Workflows or other methods to develop a new algorithms or optmize OpenROAD's existing resizers internal algorithms on a **per-design basis**
+Participants may use LLMs/Agentic Workflows or other methods to develop new algorithms or optmize OpenROAD's existing Resizer' internal algorithms on a **per-design basis**
+<!-- 
+<img width="1000" alt="profile" src="etc/MLCAD26_after1.png"> -->
 
-<img width="1000" alt="profile" src="etc/MLCAD26_after1.png">
 
-
-<!-- ###  We have released the content details, please find the information in [*MLCAD26-Contest-Scripts-Benchmarks*](https://github.com/ASU-VDA-Lab/MLCAD26-Contest-Scripts-Benchmarks). -->
+###  We have released the content details, please find the information in [*MLCAD26-Contest-Scripts-Benchmarks*](https://github.com/ASU-VDA-Lab/MLCAD26-Contest-Scripts-Benchmarks).
 <!-- ### Please find the contest description [*here*](https://github.com/ASU-VDA-Lab/MLCAD26-Contest-Scripts-Benchmarks/blob/main/MLCAD2026-Contest-Problem-Statement.pdf). -->
 
 ## Contest Challenges Include:
@@ -40,12 +40,12 @@ Participants may use LLMs/Agentic Workflows or other methods to develop a new al
 
 ## Registration
 
-- Registration opens    : February 20, 2026
-- Registration deadline : March 10, 2026
+- Registration opens    : March 1, 2026
+- Registration deadline : April 10, 2026
 
 ## Contest Timeline
 
-| Milestone                 | Date                                              |
+<!-- | Milestone                 | Date                                              |
 | ------------------------- | ------------------------------------------------- |
 | Registration Opens        | February 20, 2026                                 |
 | Registration Deadline     | March 10, 2026                                    |
@@ -53,7 +53,20 @@ Participants may use LLMs/Agentic Workflows or other methods to develop a new al
 | Beta Submission Deadline  | May 1, 2026                                       |
 | Final Submission Deadline | June 15, 2026                                     |
 | Results Announcement      | June 25, 2026 (With invitation to Submit a paper) |
-| Camera-Ready Version      | July 25, 2026                                     |
+| Camera-Ready Version      | July 25, 2026                                     | -->
+
+| Phase             | Milestone                                                    | Date           |
+| ----------------- | ------------------------------------------------------------ | -------------- |
+| Announcement      | Contest Announcement                                         | March 1, 2026  |
+| Benchmark Release | Initial benchmark suite                                      | March 1, 2026  |
+| Registration      | Registration deadline                                        | April 10, 2026 |
+| Alpha Phase       | Alpha submission                                             | April 30, 2026 |
+| Beta Phase        | Beta submission – Testcase 1 release                         | May 5, 2026    |
+| Beta Phase        | Beta submission – Testcase 1 deadline and Testcase 2 release | May 15, 2026   |
+| Beta Phase        | Beta submission – Testcase 2 deadline and Testcase 3 release | May 25, 2026   |
+| Beta Phase        | Beta submission – Testcase 3 deadline                        | June 5, 2026   |
+| Results           | Results announcement                                         | June 15, 2026  |
+| Publication       | Camera-ready paper                                           | July 25, 2026 |
 
 ## Prizes
 
