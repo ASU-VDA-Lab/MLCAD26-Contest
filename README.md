@@ -12,7 +12,7 @@ Join the exciting MLCAD 2026 Contest and showcase your innovative skills in comb
 
 The goal of this contest is to create a design-aware timing optimization tool. Specifically, this means you can use an LLM to update/generate/modify the EDA tool's source code and/or internal algorithms, depending on the design to which it is applied. Contestants may begin with the baseline OpenROAD  source code. 
 
-<img width="1000" alt="profile" src="etc/MLCAD26_Flow.png">
+<img width="1000" alt="profile" src="etc/flow.png">
 
 Participants may use LLMs or agentic workflows or other methods to develop new algorithms for timing optimization and legalization on a **per-design basis**
 <!-- 
