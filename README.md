@@ -49,7 +49,7 @@ To be added after March 15th.
 
 ## Contest Details
 
-### We have released the contest details in the [contest description document](https://github.com/ASU-VDA-Lab/MLCAD26-Contest/MLCAD2026-Contest-Algorithm-Discovery.pdf).
+### We have released the contest details in the [contest description document](./MLCAD2026-Contest-Algorithm-Discovery.pdf).
 ### We will shortly release the repository for the benchmark and evaluation scripts.  
 <!-- ### Please find the contest description [*here*](https://github.com/ASU-VDA-Lab/MLCAD26-Contest-Scripts-Benchmarks/blob/main/MLCAD2026-Contest-Problem-Statement.pdf). -->
 
