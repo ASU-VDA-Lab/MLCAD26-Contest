@@ -5,7 +5,7 @@
 
 Join the exciting MLCAD 2026 Contest and showcase your innovative skills in combining agentic Large Language Model (LLM) flows with Electronic Design Automation (EDA). This year's challenge focuses on algorithm discovery using LLMs for timing optimization. 
 
-**Winners of this year's contest will be invited to MLCAD2026 to present their solutions as a paper in the proceedings**
+**Winners of this year's contest will be invited to MLCAD2026 to present their solutions as a paper in the proceedings.**
 
 **Please register [here](https://form.jotform.com/260577193935165).**
 
@@ -15,7 +15,7 @@ The goal of this contest is to create a design-aware timing optimization tool. S
 
 <img width="1000" alt="profile" src="etc/flow.png">
 
-Participants may use LLMs or agentic workflows or other methods to develop new algorithms for timing optimization and legalization on a **per-design basis**
+Participants may use LLMs, agentic workflows, or other methods to develop new algorithms for timing optimization and legalization on a **per-design basis**
 <!-- 
 <img width="1000" alt="profile" src="etc/MLCAD26_after1.png"> -->
 
@@ -47,23 +47,14 @@ Participants may use LLMs or agentic workflows or other methods to develop new a
 
 To be added after March 15th. 
 
-### Contest Details
+## Contest Details
 
-We have released the contest details in the [contest description document](https://github.com/ASU-VDA-Lab/MLCAD26-Contest/MLCAD2026-Contest-Algorithm-Discovery.pdf).
-We will shortly release the repository for the benchmark and evaluation scripts. 
+### We have released the contest details in the [contest description document](https://github.com/ASU-VDA-Lab/MLCAD26-Contest/MLCAD2026-Contest-Algorithm-Discovery.pdf).
+### We will shortly release the repository for the benchmark and evaluation scripts.  
 <!-- ### Please find the contest description [*here*](https://github.com/ASU-VDA-Lab/MLCAD26-Contest-Scripts-Benchmarks/blob/main/MLCAD2026-Contest-Problem-Statement.pdf). -->
 
 ### Contest Timeline
 
-<!-- | Milestone                 | Date                                              |
-| ------------------------- | ------------------------------------------------- |
-| Registration Opens        | February 20, 2026                                 |
-| Registration Deadline     | March 10, 2026                                    |
-| Alpha Submission Deadline | April 1, 2026                                     |
-| Beta Submission Deadline  | May 1, 2026                                       |
-| Final Submission Deadline | June 15, 2026                                     |
-| Results Announcement      | June 25, 2026 (With invitation to Submit a paper) |
-| Camera-Ready Version      | July 25, 2026                                     | -->
 
 | Phase             | Milestone                                                    | Date           |
 | ----------------- | ------------------------------------------------------------ | -------------- |
@@ -78,14 +69,10 @@ We will shortly release the repository for the benchmark and evaluation scripts.
 | Results           | Results announcement                                         | June 15, 2026  |
 | Publication       | Camera-ready paper                                           | July 25, 2026 |
 
-## Prizes
+### Prizes
 
-<!-- Top-performing teams will receive **NVIDIA GPUs** as awards! These can be used for further research! -->
-Top-performing team(s) will be invited to present their solutions in [MLCAD2026](https://mlcad.org/symposium/2026/). 
-## Contest Details
+Top-performing team(s) will be invited to present their solutions at [MLCAD2026](https://mlcad.org/symposium/2026/) and will be invited to submit a paper in the proceedings.
 
-###  We will release the content details soon. Please find the information in [*MLCAD26-Contest-Scripts-Benchmarks*](https://github.com/ASU-VDA-Lab/MLCAD26-Contest-Scripts-Benchmarks).
- 
 
 ## About MLCAD
 
