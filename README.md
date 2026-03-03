@@ -1,12 +1,14 @@
-
+<img width="1849" height="787" alt="image" src="https://github.com/user-attachments/assets/e5d76443-d650-4a41-9b85-81b266be2ea5" />
 <img width="1000" alt="profile" src="etc/MLCAD26.png">
 
 # **LLM-based Algorithm Discovery for Timing Optimization**
 
 
-Join the exciting MLCAD 2026 Contest and showcase your innovative skills in combining agentic Large Language Model (LLM) flows with Electronic Design Automation (EDA). This year's challenge focuses on algorithm discovery using LLMs for timing optimization.
+Join the exciting MLCAD 2026 Contest and showcase your innovative skills in combining agentic Large Language Model (LLM) flows with Electronic Design Automation (EDA). This year's challenge focuses on algorithm discovery using LLMs for timing optimization. 
 
 **Winners of this year's contest will be invited to MLCAD2026 to present their solutions as a paper in the proceedings**
+
+**Please register [here]**(https://form.jotform.com/260577193935165).
 
 ## Contest Overview
 
@@ -43,7 +45,7 @@ Participants may use LLMs or agentic workflows or other methods to develop new a
 - Registration opens   : March 1, 2026
 - Registration deadline: April 10, 2026
 
-Please register [here](https://form.jotform.com/260577193935165).
+**Please register [here]**(https://form.jotform.com/260577193935165).
 
 ### Registered Teams
 
