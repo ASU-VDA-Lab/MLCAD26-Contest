@@ -20,9 +20,6 @@ Participants may use LLMs or agentic workflows or other methods to develop new a
 <img width="1000" alt="profile" src="etc/MLCAD26_after1.png"> -->
 
 
-###  We have released the content details, please find the information in [*MLCAD26-Contest-Scripts-Benchmarks*](https://github.com/ASU-VDA-Lab/MLCAD26-Contest-Scripts-Benchmarks).
-<!-- ### Please find the contest description [*here*](https://github.com/ASU-VDA-Lab/MLCAD26-Contest-Scripts-Benchmarks/blob/main/MLCAD2026-Contest-Problem-Statement.pdf). -->
-
 ## Contest Challenge
 
 - Designing a design-adaptive timing optimization algorithm that dynamically modifies strategies based on the characteristics of each design.
@@ -50,6 +47,12 @@ Participants may use LLMs or agentic workflows or other methods to develop new a
 
 To be added after March 15th. 
 
+### Contest Details
+
+We have released the contest details in the [contest description document](https://github.com/ASU-VDA-Lab/MLCAD26-Contest/MLCAD2026-Contest-Algorithm-Discovery.pdf).
+We will shortly release the repository for the benchmark and evaluation scripts. 
+<!-- ### Please find the contest description [*here*](https://github.com/ASU-VDA-Lab/MLCAD26-Contest-Scripts-Benchmarks/blob/main/MLCAD2026-Contest-Problem-Statement.pdf). -->
+
 ### Contest Timeline
 
 <!-- | Milestone                 | Date                                              |
@@ -65,7 +68,7 @@ To be added after March 15th.
 | Phase             | Milestone                                                    | Date           |
 | ----------------- | ------------------------------------------------------------ | -------------- |
 | Announcement      | Contest Announcement                                         | March 1, 2026  |
-| Benchmark Release | Initial benchmark suite                                      | March 1, 2026  |
+| Benchmark Release | Initial benchmark suite                                      | March 4, 2026  |
 | Registration      | Registration deadline                                        | April 10, 2026 |
 | Alpha Phase       | Alpha submission                                             | April 30, 2026 |
 | Beta Phase        | Beta submission – Testcase 1 release                         | May 5, 2026    |
