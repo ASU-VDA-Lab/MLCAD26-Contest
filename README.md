@@ -49,9 +49,12 @@ To be added after March 15th.
 
 ## Contest Details
 
-### We have released the contest details in the [contest description document](./MLCAD2026-Contest-Algorithm-Discovery.pdf).
-### We will shortly release the repository for the benchmark and evaluation scripts.  
-<!-- ### Please find the contest description [*here*](https://github.com/ASU-VDA-Lab/MLCAD26-Contest-Scripts-Benchmarks/blob/main/MLCAD2026-Contest-Problem-Statement.pdf). -->
+<!--### We have released the contest details in the [contest description document](./MLCAD2026-Contest-Algorithm-Discovery.pdf).-->
+
+- Repository for the benchmark and evaluation scripts can be accessed here [MLCAD26-Contest-Scripts-Benchmarks](https://github.com/ASU-VDA-Lab/MLCAD26-Contest-Scripts-Benchmarks/).
+
+<!--### We will shortly release the repository for the benchmark and evaluation scripts.  -->
+- Please find the contest description [*here*](https://github.com/ASU-VDA-Lab/MLCAD26-Contest-Scripts-Benchmarks/blob/main/MLCAD2026-Contest-Problem-Statement.pdf).
 
 ### Contest Timeline
 
@@ -67,7 +70,7 @@ To be added after March 15th.
 | Beta Phase        | Beta submission – Testcase 2 deadline and Testcase 3 release | May 25, 2026   |
 | Beta Phase        | Beta submission – Testcase 3 deadline                        | June 5, 2026   |
 | Results           | Results announcement                                         | June 15, 2026  |
-| Publication       | Camera-ready paper                                           | July 25, 2026 |
+| Publication       | Camera-ready paper                                           | July 25, 2026  |
 
 ### Prizes
 
