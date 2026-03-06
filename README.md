@@ -54,7 +54,7 @@ To be added after March 15th.
 - Repository for the benchmark and evaluation scripts can be accessed here [MLCAD26-Contest-Scripts-Benchmarks](https://github.com/ASU-VDA-Lab/MLCAD26-Contest-Scripts-Benchmarks/).
 
 <!--### We will shortly release the repository for the benchmark and evaluation scripts.  -->
-- Please find the contest description [*here*](https://github.com/ASU-VDA-Lab/MLCAD26-Contest-Scripts-Benchmarks/blob/main/MLCAD2026-Contest-Problem-Statement.pdf).
+- Please find the contest description [*here*](https://github.com/ASU-VDA-Lab/MLCAD26-Contest-Scripts-Benchmarks/blob/main/MLCAD2026-Contest-Proposal-Algorithm-Discovery.pdf)
 
 ### Contest Timeline
 
