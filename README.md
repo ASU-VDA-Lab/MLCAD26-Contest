@@ -69,8 +69,6 @@ If you have any questions about registration, please get in touch with us via th
 |team18 |LAMDA-EDA              |Nanjing University                                                        |
 
 
-*Please note that these teams are not from the research group organizing the contest. Due to conflicts of interest, teams affiliated with ASU can participate but will not be eligible for prizes.
-
 ## Contest Details
 
 <!--### We have released the contest details in the [contest description document](./MLCAD2026-Contest-Algorithm-Discovery.pdf).-->
@@ -131,4 +129,4 @@ for sponsoring this contest and their involvement in organizing it.
 For questions, reach out to mlcad2026-contest@googlegroups.com
 
 
-*Please note that teams from ASU will not be eligible for prizes even if there are participants. 
+*Please note that these teams are not from the research group organizing the contest. Due to conflicts of interest, teams affiliated with ASU can participate but will not be eligible for prizes. 
