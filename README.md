@@ -43,9 +43,33 @@ Participants may use LLMs, agentic workflows, or other methods to develop new al
 
 **Please register [here](https://form.jotform.com/260577193935165).**
 
-### Registered Teams
+### Participants List:
 
-To be added after March 15th. 
+If you have any questions about registration, please get in touch with us via the email address provided at the end of the page.
+
+|Team ID|Team Name              |Affiliation                                                               |
+|-------|-----------------------|--------------------------------------------------------------------------|
+|team1  |Team Aliens            |Arizona State University*                                                 |
+|team2  |TDA                    |InfiniTree                                                                |
+|team3  |one person one chip    |Arizona State University*                                                 | 
+|team4  |Heuristic Horizons     |N/A                                                                       |
+|team5  |ECO                    |Independent                                                               |
+|team6  |G.H.O.S.T              |New Mexico State University                                               |
+|team7  |CODA                   |College of Integrated Circuits & Micro-Nano Electronics, Fudan University |
+|team8  |DACCS                  |University of Southern California                                         |
+|team9  |AIDA                   |Kyung Hee University                                                      |
+|team10 |LearningLLM            |LTH                                                                       |
+|team11 |UBC_Fun_Team!          |University of British Columbia                                            |
+|team12 |TimingCrafter          |Shanghai Jiao Tong University                                             |
+|team13 |SSS                    |IMEC                                                                      |
+|team14 |TcT                    |National Tsing Hua University                                             |
+|team15 |justmekv               |Arizona State University*                                                 |
+|team16 |Makeit                 |Tongji University                                                         |
+|team17 |SEUTiming              |Southeast University                                                      |
+|team18 |LAMDA-EDA              |Nanjing University                                                        |
+
+
+*Please note that these teams are not from the research group organizing the contest. Due to conflicts of interest, teams affiliated with ASU can participate but will not be eligible for prizes.
 
 ## Contest Details
 
