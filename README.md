@@ -74,10 +74,9 @@ If you have any questions about registration, please get in touch with us via th
 <!--### We have released the contest details in the [contest description document](./MLCAD2026-Contest-Algorithm-Discovery.pdf).-->
 
 - Repository for the benchmark and evaluation scripts can be accessed here [MLCAD26-Contest-Scripts-Benchmarks](https://github.com/ASU-VDA-Lab/MLCAD26-Contest-Scripts-Benchmarks/).
-
-<!--### We will shortly release the repository for the benchmark and evaluation scripts.  -->
-- Please find the contest description [*here*](https://github.com/ASU-VDA-Lab/MLCAD26-Contest-Scripts-Benchmarks/blob/main/MLCAD2026-Contest-Proposal-Algorithm-Discovery.pdf)
-
+  
+- Please find the contest description: https://github.com/ASU-VDA-Lab/MLCAD26-Contest-Scripts-Benchmarks/blob/main/MLCAD2026-Contest-Algorithm-Discovery.pdf
+   
 ### Contest Timeline
 
 
