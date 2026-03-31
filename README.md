@@ -66,7 +66,11 @@ If you have any questions about registration, please get in touch with us via th
 |team15 |justmekv               |Arizona State University*                                                 |
 |team16 |Makeit                 |Tongji University                                                         |
 |team17 |SEUTiming              |Southeast University                                                      |
-|team18 |LAMDA-EDA              |Nanjing University                                                        |
+|team18 |LAMDA-EDA              |Nanjing University & Huawei Noah's Ark La                                 |
+|team19 |HKUST 2.0              |Hong Kong University of Science and Technology(Guangzhou)                 |
+|team20 |Slug-CAD               |UC Santa Cruz                                                             |
+
+
 
 
 ## Contest Details
