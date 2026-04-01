@@ -69,6 +69,12 @@ If you have any questions about registration, please get in touch with us via th
 |team18 |LAMDA-EDA              |Nanjing University & Huawei Noah's Ark La                                 |
 |team19 |HKUST 2.0              |Hong Kong University of Science and Technology(Guangzhou)                 |
 |team20 |Slug-CAD               |UC Santa Cruz                                                             |
+|team21 |APP                    |Peking University, Beijing, China                                         |
+|team22 |curetiming             |CUHK                                                                      |
+|team23 |GGBond                 |Southeast University                                                      |
+|team24 |masc-it                |UC Santa Cruz                                                             |
+
+Note: Participants List updated for registrations till 03/31/2026. We update participant registration weekly. Reach out to the provided email if you need to update your registration.
 
 
 
