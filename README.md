@@ -73,8 +73,20 @@ If you have any questions about registration, please get in touch with us via th
 |team22 |curetiming             |CUHK                                                                      |
 |team23 |GGBond                 |Southeast University                                                      |
 |team24 |masc-it                |UC Santa Cruz                                                             |
+|team25 |ItJustWorks            |ShanghaiTech University                                                   |
+|team26 |Lunaris                |Jilin University                                                          |
+|team27 |OpenPath               |Wuhan University                                                          |
+|team28 |have a try             |Sun Yat-Sen University                                                    |
+|team29 |努力做竞赛队            |Southeast University                                                      |
+|team30 |ACE-2                  |NDSU                                                                      |
+|team31 |SeDe                   |Ulsan National Institute of Science and Technology                        |
+|team32 |GoodSeDa               |Ulsan National Institute of Science and Technology                        |
+|team33 |Krusty Krab            |Ulsan National Institute of Science and Technology                        |
 
-Note: Participants List updated for registrations till 03/31/2026. We update participant registration weekly. Reach out to the provided email if you need to update your registration.
+
+Note: Participants List updated for registrations till 03/31/2026. We update participant registration weekly. 
+Reach out to the provided email if you need to update your registration. 
+You won't receive a "registration successful" email when you submit your form, so please follow the website instructions to verify your participation.
 
 
 
