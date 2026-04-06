@@ -67,21 +67,20 @@ If you have any questions about registration, please get in touch with us via th
 |team16 |Makeit                 |Tongji University                                                         |
 |team17 |SEUTiming              |Southeast University                                                      |
 |team18 |LAMDA-EDA              |Nanjing University & Huawei Noah's Ark La                                 |
-|team19 |HKUST 2.0              |Hong Kong University of Science and Technology(Guangzhou)                 |
-|team20 |Slug-CAD               |UC Santa Cruz                                                             |
-|team21 |APP                    |Peking University, Beijing, China                                         |
-|team22 |curetiming             |CUHK                                                                      |
-|team23 |GGBond                 |Southeast University                                                      |
-|team24 |masc-it                |UC Santa Cruz                                                             |
-|team25 |ItJustWorks            |ShanghaiTech University                                                   |
-|team26 |Lunaris                |Jilin University                                                          |
-|team27 |OpenPath               |Wuhan University                                                          |
-|team28 |have a try             |Sun Yat-Sen University                                                    |
-|team29 |努力做竞赛队            |Southeast University                                                      |
-|team30 |ACE-2                  |NDSU                                                                      |
-|team31 |SeDe                   |Ulsan National Institute of Science and Technology                        |
-|team32 |GoodSeDa               |Ulsan National Institute of Science and Technology                        |
-|team33 |Krusty Krab            |Ulsan National Institute of Science and Technology                        |
+|team19 |Slug-CAD               |UC Santa Cruz                                                             |
+|team20 |APP                    |Peking University, Beijing, China                                         |
+|team21 |curetiming             |CUHK                                                                      |
+|team22 |GGBond                 |Southeast University                                                      |
+|team23 |masc-it                |UC Santa Cruz                                                             |
+|team24 |ItJustWorks            |ShanghaiTech University                                                   |
+|team25 |Lunaris                |Jilin University                                                          |
+|team26 |OpenPath               |Wuhan University                                                          |
+|team27 |have a try             |Sun Yat-Sen University                                                    |
+|team28 |努力做竞赛队            |Southeast University                                                      |
+|team29 |ACE-2                  |NDSU                                                                      |
+|team30 |SeDe                   |Ulsan National Institute of Science and Technology                        |
+|team31 |GoodSeDa               |Ulsan National Institute of Science and Technology                        |
+|team32 |Krusty Krab            |Ulsan National Institute of Science and Technology                        |
 
 
 Note: Participants List updated for registrations till 03/31/2026. We update participant registration weekly. 
