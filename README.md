@@ -81,9 +81,20 @@ If you have any questions about registration, please get in touch with us via th
 |team30 |SeDe                   |Ulsan National Institute of Science and Technology                        |
 |team31 |GoodSeDa               |Ulsan National Institute of Science and Technology                        |
 |team32 |Krusty Krab            |Ulsan National Institute of Science and Technology                        |
+|team33 |ALAP                   |Texas A&M University                                                      |
+|team34 |Niuniu                 |The Hong Kong University of Science and Technology (Guangzhou)            |
+|team35 |AI4SEMI                |SSIR                                                                      |
+|team36 |agentic-llm-for-eda    |Texas A&M University                                                      |
+|team37 |AVS                    |Indian Institute of Technology Guwahati                                   |
+|team38 |Luffy                  |JLU                                                                       |
+|team39 |xfunc                  |Functech                                                                  |
+|team40 |SMTraining             |Sookmyung Women's University                                              |
+|team41 |UT^2                   |The University of Tokyo                                                   |
 
 
-Note: Participants List updated for registrations till 03/31/2026. We update participant registration weekly. 
+
+
+Note: Participants List updated for registrations till 04/09/2026. We will do the final update of participant registration on 04/11/2026. 
 Reach out to the provided email if you need to update your registration. 
 You won't receive a "registration successful" email when you submit your form, so please follow the website instructions to verify your participation.
 
