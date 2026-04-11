@@ -41,7 +41,7 @@ Participants may use LLMs, agentic workflows, or other methods to develop new al
 - Registration opens   : March 1, 2026
 - Registration deadline: April 10, 2026
 
-**Please register [here](https://form.jotform.com/260577193935165).**
+**Registration Closed**
 
 ### Participants List:
 
