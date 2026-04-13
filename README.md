@@ -89,7 +89,7 @@ If you have any questions about registration, please get in touch with us via th
 |team38 |Luffy                  |JLU                                                                       |
 |team39 |xfunc                  |Functech                                                                  |
 |team40 |SMTraining             |Sookmyung Women's University                                              |
-|team41 |UT^2                   |The University of Tokyo                                                   |
+|team41 |UT^2                   |The University of Tokyo and University of Tsukuba                         |
 |team42 |Thunder                |Westlake University                                                       |
 |team43 |Illegal Placement      |International Institute of Information Technology Hyderabad               |
 |team44 |Mystic Musketeer       |Khulna University of Engineering & Technology                             |
