@@ -7,7 +7,7 @@ Join the exciting MLCAD 2026 Contest and showcase your innovative skills in comb
 
 **Winners of this year's contest will be invited to MLCAD2026 to present their solutions as a paper in the proceedings.**
 
-**Please register [here](https://form.jotform.com/260577193935165).**
+
 
 ## Contest Overview
 
