@@ -53,7 +53,7 @@ If you have any questions about registration, please get in touch with us via th
 |team2  |TDA                    |InfiniTree                                                                |
 |team3  |one person one chip    |Arizona State University*                                                 | 
 |team4  |Heuristic Horizons     |N/A                                                                       |
-|team5  |ECO                    |University of California, San Diego                                                               |
+|team5  |ECO                    |University of California, San Diego                                       |
 |team6  |G.H.O.S.T              |New Mexico State University                                               |
 |team7  |CODA                   |College of Integrated Circuits & Micro-Nano Electronics, Fudan University |
 |team8  |DACCS                  |University of Southern California                                         |
@@ -66,7 +66,7 @@ If you have any questions about registration, please get in touch with us via th
 |team15 |justmekv               |Arizona State University*                                                 |
 |team16 |Makeit                 |Tongji University                                                         |
 |team17 |SEUTiming              |Southeast University                                                      |
-|team18 |LAMDA-EDA              |Nanjing University & Huawei Noah's Ark La                                 |
+|team18 |LAMDA-EDA              |Nanjing University & Huawei Noah's Ark Lab                                |
 |team19 |Slug-CAD               |UC Santa Cruz                                                             |
 |team20 |APP                    |Peking University, Beijing, China                                         |
 |team21 |curetiming             |CUHK                                                                      |
