@@ -97,13 +97,22 @@ If you have any questions about registration, please get in touch with us via th
 | team46  | Bad Timing          | Arizona State University*                                                 | https://www.dropbox.com/scl/fo/ne41pfdp9i535ixwrg8vi/AHzYcSoSFuw5SLYo9epbnA0?rlkey=zk8mfkd9ddlhkkk4t3fhyyjfb&st=45uxwxmi&dl=0 |
 
 
-
-
 Note: Registrations closed !! 
 Participants' list fully updated with all registrations till 04/10/2026. 
 Reach out to the provided email if you need to update your registration. 
 You won't receive a "registration successful" email when you submit your form, so please follow the website instructions to verify your participation.
 
+## Alpha Results
+| Design               | Score             | Team           |
+|----------------------|-------------------|----------------|
+|aes_cipher_top        |37.6235            |team_14         |
+|jpeg_encoder          |28.6469            |team_14         |
+|nvdla_p               |44.6817            |team_39         |
+|ariane                |25.9929            |team_39         |
+|nvdla_c               |26.0173            |team_39         |
+
+
+### Best Total Score: 28.4 [team_14]
 
 
 
