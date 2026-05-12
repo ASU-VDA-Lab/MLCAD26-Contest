@@ -131,17 +131,7 @@ You won't receive a "registration successful" email when you submit your form, s
 | Results              | Results announcement                                         | June 15, 2026  |
 | Publication          | Camera-ready paper                                           | July 25, 2026  |
 
-### Alpha Best Scores
 
-|Testcase Name         | Best Team   | Score  |
-|----------------------|-------------|--------|
-|aes_cipher_top        |team_20      |4.18    |
-|jpeg_encoder          |team_12      |2.48    |
-|nvdla_p               |team_20      |5.02    |
-|ariane                |team_20      |9.06    |
-|nvdla_c               |team_17      |4.11    |
-
-#### Best Alpha Total Score:      team_17   [2.81]
 
 ### Prizes
 
