@@ -131,6 +131,18 @@ You won't receive a "registration successful" email when you submit your form, s
 | Results              | Results announcement                                         | June 15, 2026  |
 | Publication          | Camera-ready paper                                           | July 25, 2026  |
 
+### Alpha Best Scores
+
+|Testcase Name         | Best Team   |
+|----------------------|-------------|
+|aes_cipher_top        |team_20      |
+|jpeg_encoder          |team_12      |
+|nvdla_p               |team_20      |
+|ariane                |team_20      |
+|nvdla_c               |team_17      |
+
+#### Best Alpha Total Score:      team_17   
+
 ### Prizes
 
 Top-performing team(s) will be invited to present their solutions at [MLCAD2026](https://mlcad.org/symposium/2026/) and will be invited to submit a paper in the proceedings.
