@@ -119,7 +119,7 @@ You won't receive a "registration successful" email when you submit your form, s
 | aes_cipher_top | 47.0726 | team_39 |
 | jpeg_encoder   | 38.1876 | team_20 |
 | nvdla_p        | 60.3551 | team_20 |
-| ariane         | 69.1027 | team_29 |
+| ariane         | 25.2867 | team_39 |
 | nvdla_c        | 26.9085 | team_39 |
 | nvdla_a        | 60.6854 | team_39 |
 ### Best Beta submission – Testcase 1 Total Score: 50.2 [team_39]
