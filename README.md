@@ -124,6 +124,19 @@ You won't receive a "registration successful" email when you submit your form, s
 | nvdla_a        | 60.6854 | team_39 |
 ### Best Beta submission – Testcase 1 Total Score: 50.2 [team_39]
 
+
+## Beta submission – Testcase 1 Results
+| Design         | Score   |                       |
+| -------------- | ------- | --------------------- |
+| aes_cipher_top | 47.0726 | `*need clarification` |
+| jpeg_encoder   | 38.1876 | `*need clarification` |
+| nvdla_p        | 60.5264 | `*need clarification` |
+| ariane         | 25.2867 | `*need clarification` |
+| nvdla_c        | 26.9085 | `*need clarification` |
+| nvdla_a        | 60.6854 |                       |
+| mempool_group  | 11.9135 |                       |
+
+
 ## Contest Details
 
 <!--### We have released the contest details in the [contest description document](./MLCAD2026-Contest-Algorithm-Discovery.pdf).-->
