@@ -125,7 +125,7 @@ You won't receive a "registration successful" email when you submit your form, s
 ### Best Beta submission – Testcase 1 Total Score: 50.2 [team_39]
 
 
-## Beta submission – Testcase 1 Results
+## Beta submission – Testcase 2 Results
 | Design         | Score   |                       |
 | -------------- | ------- | --------------------- |
 | aes_cipher_top | 47.0726 | `*need clarification` |
