@@ -137,6 +137,7 @@ You won't receive a "registration successful" email when you submit your form, s
 | mempool_group  | 11.9135* |
 
 \* pending clarification
+
 **Note:** Best total score will be updated after Test Case 3 evaluation.
 
 ## Contest Details
