@@ -160,8 +160,8 @@ You won't receive a "registration successful" email when you submit your form, s
 | Beta Phase           | Beta submission – Testcase 1 release                         | May 5, 2026    |
 | Beta Phase           | Beta submission – Testcase 1 deadline and Testcase 2 release | May 20, 2026   |
 | Beta Phase           | Beta submission – Testcase 2 deadline and Testcase 3 release | June 2, 2026   |
-| Beta Phase           | Beta submission – Testcase 3 deadline                        | June 14, 2026   |
-| Results              | Results announcement                                         | June 22, 2026  |
+| Beta Phase           | Beta submission – Testcase 3 deadline                        | June 18, 2026   |
+| Results              | Results announcement                                         | June 25, 2026  |
 | Publication          | Camera-ready paper                                           | July 25, 2026  |
 
 
