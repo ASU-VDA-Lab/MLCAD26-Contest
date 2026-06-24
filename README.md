@@ -106,12 +106,12 @@ You won't receive a "registration successful" email when you submit your form, s
 
 
 | Design               | Score             | Team           |
-|----------------------|-------------------|----------------|
-|aes_cipher_top        |37.6235            |team_14         |
-|jpeg_encoder          |28.6469            |team_14         |
-|nvdla_p               |44.6817            |team_39         |
-|ariane                |25.9929            |team_39         |
-|nvdla_c               |26.0173            |team_39         |
+| -------------------- | ----------------- | -------------- |
+| aes_cipher_top       | 37.6235           | team_14        |
+| jpeg_encoder         | 28.6469           | team_14        |
+| nvdla_p              | 44.6817           | team_39        |
+| ariane               | 25.9929           | team_39        |
+| nvdla_c              | 26.0173           | team_39        |
 
 
 ### Best Alpha Total Score: 28.4 [team_14]
