@@ -112,6 +112,8 @@ You won't receive a "registration successful" email when you submit your form, s
 |nvdla_p               |44.6817            |team_39         |
 |ariane                |25.9929            |team_39         |
 |nvdla_c               |26.0173            |team_39         |
+
+
 ### Best Alpha Total Score: 28.4 [team_14]
 
 
