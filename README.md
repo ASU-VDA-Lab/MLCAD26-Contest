@@ -103,6 +103,8 @@ Reach out to the provided email if you need to update your registration.
 You won't receive a "registration successful" email when you submit your form, so please follow the website instructions to verify your participation.
 
 ## Alpha Results
+
+
 | Design               | Score             | Team           |
 |----------------------|-------------------|----------------|
 |aes_cipher_top        |37.6235            |team_14         |
@@ -114,6 +116,8 @@ You won't receive a "registration successful" email when you submit your form, s
 
 
 ## Beta submission – Testcase 1 Results
+
+
 | Design         | Score   | Team    |
 | -------------- | ------- | ------- |
 | aes_cipher_top | 47.0726 | team_39 |
@@ -122,10 +126,14 @@ You won't receive a "registration successful" email when you submit your form, s
 | ariane         | 25.2867 | team_39 |
 | nvdla_c        | 26.9085 | team_39 |
 | nvdla_a        | 60.6854 | team_39 |
+
+
 ### Best Beta submission – Testcase 1 Total Score: 50.2 [team_39]
 
 
 ## Beta submission – Testcase 2 Results
+
+
 | Design         | Score    |
 | -------------- | -------  |
 | aes_cipher_top | 47.0726  |
