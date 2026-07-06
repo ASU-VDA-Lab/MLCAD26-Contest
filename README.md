@@ -114,7 +114,6 @@ You won't receive a "registration successful" email when you submit your form, s
 | nvdla_c              | 26.0173           | team_39        |
 
 
-### Best Alpha Total Score: 28.4 [team_14]
 
 
 ## Beta submission – Testcase 1 Results
@@ -130,7 +129,6 @@ You won't receive a "registration successful" email when you submit your form, s
 | nvdla_a        | 60.6854 | team_39 |
 
 
-### Best Beta submission – Testcase 1 Total Score: 50.2 [team_39]
 
 
 ## Beta submission – Testcase 2 Results
