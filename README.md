@@ -136,19 +136,33 @@ You won't receive a "registration successful" email when you submit your form, s
 ## Beta submission – Testcase 2 Results
 
 
-| Design         | Score    |
-| -------------- | -------  |
-| aes_cipher_top | 47.0726  |
-| jpeg_encoder   | 38.1876* |
-| nvdla_p        | 60.5264* |
-| ariane         | 25.2867  |
-| nvdla_c        | 26.9085  |
-| nvdla_a        | 60.6854  |
-| mempool_group  | 11.9135* |
+| Design         | Score    | Team    |
+| -------------- | -------  | ------- |
+| aes_cipher_top | 40.0239  | team_39 |
+| jpeg_encoder   | 34.5935  | team_39 |
+| nvdla_p        | 55.4425  | team_39 |
+| ariane         | 25.1482  | team_39 |
+| nvdla_c        | 26.8469  | team_39 |
+| mempool_group  | 11.9135  | team_39 |
 
-\* pending clarification
+
+
+## Beta submission – Testcase 3 Results
+
+
+| Design         | Score    | Team    |
+| -------------- | -------  | ------- |
+| aes_cipher_top | 47.9874  | team_39 |
+| jpeg_encoder   | 39.6274  | team_39 |
+| nvdla_p        | 52.8222  | team_39 |
+| ariane         | 26.1453  | team_39 |
+| nvdla_c        | 28.0754  | team_39 |
+| nvdla_m        | 42.5126  | team_31 |
 
 **Note:** Best total score will be updated after Test Case 3 evaluation.
+
+
+## Final Results:
 
 ## Contest Details
 
