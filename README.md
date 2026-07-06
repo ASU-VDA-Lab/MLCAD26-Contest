@@ -159,7 +159,23 @@ You won't receive a "registration successful" email when you submit your form, s
 
 
 
-## Final Results:
+## Final Results (Average of alpha test cases):
+
+| Rank    | Score   | Team    |
+| ------- | ------- | ------- |
+| 1       | 60.8585 | team39  |
+| 2       | 40.3031 | team14  |
+| 3       | 34.1592 | team31  |
+
+
+## Final Results (Max of alpha test cases):
+
+| Rank    | Score   | Team    |
+| ------- | ------- | ------- |
+| 1       | 61.7316 | team39  |
+| 2       | 47.5586 | team14  |
+| 3       | 46.0908 | team31  |
+
 
 ## Contest Details
 
